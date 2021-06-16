@@ -7,5 +7,5 @@ int main(){
 }
 
 void helloworld(){
-	printf("HelloWorld!");
+	printf("useless");
 }
