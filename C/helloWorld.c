@@ -1,9 +1,14 @@
 #include <stdio.h>
+void greeting();
 void helloworld();
 
 int main(){
-	printf("HelloWorld!");
+	greeting();
 	return 0;
+}
+
+void greeting(){
+	printf("Hey how are you?");
 }
 
 void helloworld(){
